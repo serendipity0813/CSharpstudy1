@@ -1,0 +1,4 @@
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\obj\Debug\c#study2.csproj.AssemblyReference.cache
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\obj\Debug\c#study2.csproj.CoreCompileInputs.cache
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\obj\Debug\C#study1.exe
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\obj\Debug\C#study1.pdb

@@ -1,0 +1,7 @@
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\bin\Debug\C#study1.exe.config
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\bin\Debug\C#study1.exe
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\bin\Debug\C#study1.pdb
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\obj\Debug\C#study1.csproj.AssemblyReference.cache
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\obj\Debug\C#study1.csproj.CoreCompileInputs.cache
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\obj\Debug\C#study1.exe
+C:\Users\junyoung\source\repos\unity\C#study1\C#study1\obj\Debug\C#study1.pdb
