@@ -69,5 +69,14 @@ namespace CodeKata
 
 
         }
+
+        public static int Solution3(int num)
+        {
+
+
+
+
+            return 0;
+        }
     }
 }
