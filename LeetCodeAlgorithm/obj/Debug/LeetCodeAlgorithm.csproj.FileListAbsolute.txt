@@ -1,0 +1,7 @@
+C:\Users\junyoung\source\repos\unity\C#study1\LeetCodeAlgorithm\bin\Debug\LeetCodeAlgorithm.exe.config
+C:\Users\junyoung\source\repos\unity\C#study1\LeetCodeAlgorithm\bin\Debug\LeetCodeAlgorithm.exe
+C:\Users\junyoung\source\repos\unity\C#study1\LeetCodeAlgorithm\bin\Debug\LeetCodeAlgorithm.pdb
+C:\Users\junyoung\source\repos\unity\C#study1\LeetCodeAlgorithm\obj\Debug\LeetCodeAlgorithm.csproj.AssemblyReference.cache
+C:\Users\junyoung\source\repos\unity\C#study1\LeetCodeAlgorithm\obj\Debug\LeetCodeAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\junyoung\source\repos\unity\C#study1\LeetCodeAlgorithm\obj\Debug\LeetCodeAlgorithm.exe
+C:\Users\junyoung\source\repos\unity\C#study1\LeetCodeAlgorithm\obj\Debug\LeetCodeAlgorithm.pdb

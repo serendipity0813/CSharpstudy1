@@ -1,0 +1,7 @@
+C:\Users\junyoung\source\repos\unity\C#study1\SortArgotirhm\bin\Debug\SortArgotirhm.exe.config
+C:\Users\junyoung\source\repos\unity\C#study1\SortArgotirhm\bin\Debug\SortArgotirhm.exe
+C:\Users\junyoung\source\repos\unity\C#study1\SortArgotirhm\bin\Debug\SortArgotirhm.pdb
+C:\Users\junyoung\source\repos\unity\C#study1\SortArgotirhm\obj\Debug\Week5-BasicAlgorithm.csproj.AssemblyReference.cache
+C:\Users\junyoung\source\repos\unity\C#study1\SortArgotirhm\obj\Debug\Week5-BasicAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\junyoung\source\repos\unity\C#study1\SortArgotirhm\obj\Debug\SortArgotirhm.exe
+C:\Users\junyoung\source\repos\unity\C#study1\SortArgotirhm\obj\Debug\SortArgotirhm.pdb
